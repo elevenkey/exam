@@ -81,7 +81,7 @@ header nav ul li a:hover{
     width: 1220px;
 }
 .footer{
-    height:100px;
+    height:80px;
     display: block;
     background-image:linear-gradient(to top, #666, #999);
 }
