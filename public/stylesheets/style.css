@@ -80,3 +80,8 @@ header nav ul li a:hover{
     background-color: #fff;
     width: 1220px;
 }
+.footer{
+    height:100px;
+    display: block;
+    background-image:linear-gradient(to top, #666, #999);
+}

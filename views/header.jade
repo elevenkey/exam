@@ -1,0 +1,7 @@
+header
+    .logo= title
+    nav
+        ul
+            each menu in menus
+                li
+                    a(href='#{menu.url}') #{menu.name}
